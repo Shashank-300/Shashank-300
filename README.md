@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shashank-300
 - 👀 I’m interested in Computers,AI and Physics
 - 🌱 I’m currently learning Python and DSA
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me : Contact me on my email vyasshashank300@gmail.com
 
 <!---
